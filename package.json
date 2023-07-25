@@ -1,0 +1,32 @@
+{
+  "name": "tram4_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect sever.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truong102302/tram4_simple.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "socketio",
+    "mqtt"
+  ],
+  "author": "Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truong102302/tram4_simple/issues"
+  },
+  "homepage": "https://github.com/Truong102302/tram4_simple#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
